@@ -1,4 +1,4 @@
-# food-website
+# Leafy-Bites
 Website Link: https://leafybites.ritikkumar49.repl.co/
 
 Recipe-sharing website featuring vegan food: In this phase, students need to create a gallery of different recipes and show the details of recipes when interacted with.
